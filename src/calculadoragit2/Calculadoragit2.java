@@ -17,11 +17,12 @@ public class Calculadoragit2 {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-       public static String suma(String a, String b) {
-        String c;
+       public static int suma(int a, int b) {
+        int c;
         c = a + b;
         return c;
     }
+
        //version 2.0.0
         public static int resta(int a, int b) {
         int c;
@@ -39,4 +40,7 @@ public class Calculadoragit2 {
         return c;
     }
      //Trabajos en paralelo version 2.0.0, version 1.0.0 ,version 1.1.0
+
+       //creacion de tag v1.0.1
+
 }
