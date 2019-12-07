@@ -22,4 +22,20 @@ public class Calculadoragit2 {
         c = a + b;
         return c;
     }
+       //version 2.0.0
+        public static int resta(int a, int b) {
+        int c;
+        c = a -b;
+        return c;
+    }
+     public static int multiplicacion(int a, int b) {
+        int c;
+        c = a * b;
+        return c;
+    }
+     public static int division(int a, int b) {
+        int c;
+        c = a / b;
+        return c;
+    }
 }
