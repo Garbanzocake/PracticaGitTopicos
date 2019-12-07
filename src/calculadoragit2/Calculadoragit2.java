@@ -17,8 +17,8 @@ public class Calculadoragit2 {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-       public static String suma(String a, String b) {
-        String c;
+       public static int suma(int a, int b) {
+        int c;
         c = a + b;
         return c;
     }
