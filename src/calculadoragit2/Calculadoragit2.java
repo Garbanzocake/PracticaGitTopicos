@@ -43,4 +43,5 @@ public class Calculadoragit2 {
 
        //creacion de tag v1.0.1
 
+     //versiones en paralelo estables y con tags creados,bug arreglado de caracter
 }
